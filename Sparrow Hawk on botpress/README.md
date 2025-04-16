@@ -97,8 +97,3 @@ Now you’re all set to **build** your own bot-powered world. Let’s turn your 
 
 With love and code,  
 **Your Bot-Building BFF** 💙
-
-Now you’re all set to **build** your own bot-powered world. Let’s turn your ideas into **amazing chatbot experiences** that’ll wow everyone. 🙌 With **Sparrow Hawk on Botpress**, the sky’s the limit. 🌟
-
-With love and code,  
-**Your Bot-Building BFF** 💙
