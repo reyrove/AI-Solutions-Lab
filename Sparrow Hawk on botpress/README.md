@@ -1,6 +1,6 @@
 # **Welcome to the "Sparrow Hawk on Botpress" Playground!** 🚀✨
 
-### **[Chat with Sparrow Hawk!](#) 💬✨**
+### **[Chat with Sparrow Hawk!](https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/01/06/17/20250106173117-8TRE5XWM.json) 💬✨**
 
 Hey, tech wizard! 💻 Want to chat with your **new digital bestie**? **Sparrow Hawk** is here to guide you through the amazing world of bot-building. Whether you're creating a **customer service pro**, a quirky **assistant**, or just vibing with some chatbot magic, Sparrow Hawk's got your back. Chat with Sparrow now and let’s make something incredible together! 😎✨
 
