@@ -93,7 +93,3 @@ Got a bug? A brilliant idea? Let’s make **Sparrow Hawk** even cooler, together
 Big thanks to:
 - [OpenAI](https://openai.com) for the **mind-blowing API**.
 - [Replit](https://replit.com) for making it easy to code on the fly. 🚀
-
----
-
-Now, go ahead and unleash your **coding wizardry**! ✨
