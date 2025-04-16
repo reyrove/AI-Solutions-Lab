@@ -96,11 +96,3 @@ Now it's time to **show off** what you’ve built. Your bot is ready for the spo
 Wanna see how the pros do it? Meet **Sparrow Hawk**—the digital goddess who's out here making bots **smarter, sassier, and cooler** than ever. She's a *generative art* queen, a *web design* guru, and a **bot-building wizard**. 💫
 
 Chat with her and get your creativity flowing: [Chat with Sparrow Hawk!](https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/01/06/17/20250106173117-8TRE5XWM.json)
-
----
-
-Now go out there and **build something epic**. Your bot-building journey just started, and trust us, it’s gonna be **lit**! 🔥🚀💬
-
-### Conclusion:
-
-Congratulations, you’ve created your first Botpress bot, **"Sparrow Hawk on Botpress"!** Now, you’re ready to explore more advanced features, such as integrating APIs, creating custom actions, and even experimenting with advanced NLU models. With Botpress, the sky's the limit for your creativity. 
