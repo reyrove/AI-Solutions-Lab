@@ -84,7 +84,7 @@ dotenv.config();
 - **Higher Token Limit**: So your responses can get even longer (and cooler).
 
 ## 📜 License
-MIT License — because **sharing is caring**. Fork it, tweak it, and make it your own!
+You can fork it, tweak it, build on it, or even use it in your own projects—no restrictions. Just remember to credit the original creator when you do. Let’s keep the love and credit flowing! 💙
 
 ## 🤝 Contributing
 Got a bug? A brilliant idea? Let’s make **Sparrow Hawk** even cooler, together! Open an issue or submit a pull request.
